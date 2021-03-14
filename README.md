@@ -1,5 +1,6 @@
 ## Recurrent neural network classifier with self-attention
 
+学习
 A minimal RNN-based classification model (many-to-one) with self-attention.
 Tested on `master` branches of both `torch` (commit 5edf6b2) and `torchtext` (commit c839a79). The `volatile` warnings that might be printed are due to using pytorch version 4 with torchtext.
 
